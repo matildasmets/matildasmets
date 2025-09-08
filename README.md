@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=issatillie&style=for-the-badge)
 
 
-I am an eighteen-year-old full-stack web developer.
+I am an 19-year-old full-stack web developer.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,css,js,php,laravel,mysql,py,react,cs,cpp&theme=dark)](https://skillicons.dev)
