@@ -9,4 +9,4 @@
 I am an 19-year-old full-stack web developer.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,css,js,php,laravel,mysql,py,react,cs,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,js,nodejs,react,php,laravel,mysql,postgres,py,cs,cpp&theme=dark)](https://skillicons.dev)
