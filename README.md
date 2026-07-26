@@ -1,5 +1,5 @@
 ## Hi there, my name is Matilda Smets 🙌
-![Banner](banner.png)
+![Banner](gh-banner.png)
 
 [![wakatime](https://wakatime.com/badge/user/d59f36a5-e521-4384-8006-50557ff1b7d8.svg?style=for-the-badge)](https://wakatime.com/@d59f36a5-e521-4384-8006-50557ff1b7d8)
 ![Pizza](https://img.shields.io/badge/Pizza%20Lover-Yes-red?style=for-the-badge)
